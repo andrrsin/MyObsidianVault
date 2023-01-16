@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "febfecde37d7aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca49c6639f02aa07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diary/2022-08-01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78edc71d6d3d10e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "709f3014202a6cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd90f99077a7953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "962563edcedacbc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a34623d1badf54be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1c3927bddd4e2f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d06437182f50a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2022-08-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "963e6cdc01ed8904",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fff83a6dd3b69d84",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ca49c6639f02aa07",
+  "lastOpenFiles": [
+    "VarStarDetect/Versions/VSD 2.0.0 ClassDiagramIMG.png.md",
+    "VarStarDetect/Versions/VSD 2.0.0.md",
+    "Resources/VSD 2.0.0 ClassDiagramIMG.png",
+    "Resources/VSD 2.0.0 ClassDiagram.png",
+    "Resources/Excalidraw/VSD 2.0.0 ClassDiagram.md",
+    "Pasted image 20220530121303.png.md",
+    "University/TEC/Reports/Report TEC.md",
+    "University/TEC/TEC.md",
+    "Diary/2022-08-01.md",
+    "Other/Lauriane/Textos/Mios/A-Verano.md"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "febfecde37d7aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca49c6639f02aa07",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47b522a595fc53aa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4fcd25f676e38414",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ed7576a190feb242",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7af0f18aff7180bd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20974858cc07b45d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "59e697755b4c05e6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ca49c6639f02aa07",
+  "lastOpenFiles": [
+    "Diary/A - Agosto.md",
+    "Diary/2022-08-08.md",
+    "Diary/2022-07-28.md",
+    "Other/Lauriane/Textos/Mios/A-Verano.md",
+    "Other/Lauriane/Textos/Mios/A-June sketch.md",
+    "Diary/2022-07-21.md",
+    "Diary/2022-07-14.md",
+    "Other/Lauriane/Textos/Mios/A-3 meses.md",
+    "Diary/2022-07-13.md",
+    "Diary/A-CipherThanks.md"
+  ]
+}

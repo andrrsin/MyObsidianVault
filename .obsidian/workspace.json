@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "febfecde37d7aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f96985d4472ba67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8ac1dec33062773",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1315e7d1bbd016f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbbbd143c8f2729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f83ded12177844b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91f341761f4fb8d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06c6bb06b4bb6bdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#DDNS",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "04c1c325b77d9b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59986abb26d49efa",
+        "type": "tabs",
+        "dimension": 56.97674418604651,
+        "children": [
+          {
+            "id": "dec0e61ec3355290",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c83ec44c9109f8b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "218f38427da770ce",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "093bf19e6dde09ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5eb4caa92bab9989",
+        "type": "tabs",
+        "dimension": 43.02325581395349,
+        "children": [
+          {
+            "id": "1a8ebb8f2a93f89a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.14635416666667,
+                  "lineSizeMultiplier": 2.03958333333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.450508117675782,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "b8ac1dec33062773",
+  "lastOpenFiles": [
+    "Universidad/Tercero/Segundo Cuatri/Administración de Sistemas y Redes.md",
+    "Universidad/Universidad.md",
+    "Universidad/Tercero/Segundo Cuatri/Diseño de Lenguajes de Programación.md",
+    "Universidad/Tercero/Segundo Cuatri/Arquitectura del Software.md",
+    "Universidad/Tercero/Segundo Cuatri/Seguridad Sistemas Informáticos.md",
+    "Universidad/Tercero/Segundo Cuatri/Administracion de Sistemas y Redes.md",
+    "Universidad/Tercero/Segundo Cuatri/Computacion Numerica.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making.md",
+    "Universidad/Tercero/Erasmus/Kanban Erasmus.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/Reinforcement Learning.md"
+  ]
+}

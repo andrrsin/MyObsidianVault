@@ -1,0 +1,17 @@
+{
+  "todoPageName": "TODO\nHomework\nTheory\nLaboratory\nExam",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "VarStarDetect/Versions/VSD 2.0.0.md"
+  ],
+  "_hiddenTags": []
+}

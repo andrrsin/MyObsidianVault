@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "febfecde37d7aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "081e020ee72f9c74",
+        "type": "split",
+        "dimension": 39.66398831263696,
+        "children": [
+          {
+            "id": "0a064cbf5459194a",
+            "type": "leaf",
+            "dimension": 52.077001013171234,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86fb8dce1f0bb742",
+            "type": "leaf",
+            "dimension": 47.92299898682877,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "9b295e79da0c51a7",
+        "type": "leaf",
+        "dimension": 60.33601168736303,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "University/Erasmus/WAD/API-OGreen.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1315e7d1bbd016f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbbbd143c8f2729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f83ded12177844b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06c6bb06b4bb6bdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Homework",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216
+  },
+  "right": {
+    "id": "04c1c325b77d9b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "59986abb26d49efa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec0e61ec3355290",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b91bdc57cc93fa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University/Erasmus/WAD/API-OGreen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd305f033e31b883",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c83ec44c9109f8b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "active": "9b295e79da0c51a7",
+  "lastOpenFiles": [
+    "Programming/Python/Django.md",
+    "University/Erasmus/WAD/API-OGreen.md",
+    "University/Erasmus/WAD/O-Green.md",
+    "University/Erasmus/WAD/Web Application Design.md",
+    "University/Erasmus/CIDM/Computational Intelligence and Decision Making.md",
+    "University/Erasmus/DDNS/EasyRPC.md",
+    "Diary/2022-10-17.md",
+    "Diary/2022-11-07.md",
+    "Diary/2022-11-09.md",
+    "Diary/2022-10-26.md"
+  ]
+}

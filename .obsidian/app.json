@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "attachmentFolderPath": "Attachments",
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false
+}

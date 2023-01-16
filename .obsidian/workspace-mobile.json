@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "febfecde37d7aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "081e020ee72f9c74",
+        "type": "split",
+        "dimension": 39.66398831263696,
+        "children": [
+          {
+            "id": "b9ee41e802996ea6",
+            "type": "tabs",
+            "dimension": 52.07700101317123,
+            "children": [
+              {
+                "id": "0a064cbf5459194a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4ccc5afd94777de1",
+            "type": "tabs",
+            "dimension": 47.92299898682877,
+            "children": [
+              {
+                "id": "86fb8dce1f0bb742",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "15e066831494387a",
+        "type": "tabs",
+        "dimension": 60.33601168736303,
+        "children": [
+          {
+            "id": "9b295e79da0c51a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f039ac2eca6f1e54",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd64511807f3fa79",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "11a5dbd86c0e0dcc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3eeaf78f7c8acb59",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5d516922fe201a62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b70cf63da500a6bd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "9902fe84cdae08e8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5eb7798e5ac10d87",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9b295e79da0c51a7",
+  "lastOpenFiles": [
+    "Universidad/Tercero/Erasmus/Computer Graphics/Hue.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/Data Preprocessing.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/Data Postprocessing.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/Clamp transofrmation.md",
+    "Universidad/Tercero/Erasmus/Deployment and Development of Networks Services/Remote Component Interaction.md",
+    "Universidad/Tercero/Erasmus/Deployment and Development of Networks Services/RPC multhreaded.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/AI Types.md",
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/What is AI.md",
+    "Universidad/Tercero/Development and Deployment of Network Services.md",
+    "Programming/Python/Django.md"
+  ]
+}
