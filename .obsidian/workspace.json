@@ -11,8 +11,12 @@
             "id": "b8ac1dec33062773",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,6 +188,8 @@
   },
   "active": "b8ac1dec33062773",
   "lastOpenFiles": [
+    "TopSecret/Prueba.md",
+    "README.md",
     "Universidad/Tercero/Segundo Cuatri/Administración de Sistemas y Redes.md",
     "Universidad/Universidad.md",
     "Universidad/Tercero/Segundo Cuatri/Diseño de Lenguajes de Programación.md",
@@ -189,8 +197,6 @@
     "Universidad/Tercero/Segundo Cuatri/Seguridad Sistemas Informáticos.md",
     "Universidad/Tercero/Segundo Cuatri/Administracion de Sistemas y Redes.md",
     "Universidad/Tercero/Segundo Cuatri/Computacion Numerica.md",
-    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making.md",
-    "Universidad/Tercero/Erasmus/Kanban Erasmus.md",
-    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making/Reinforcement Learning.md"
+    "Universidad/Tercero/Erasmus/Computational Intelligence and Decision Making.md"
   ]
 }
